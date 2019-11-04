@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'LcdD';
+  /* src: url('UNIDREAMLED.ttf'); */
+  src: url('unidreamled.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'iSimplified';
+  /* src: url('FZZZHUNHJW.ttf'); */
+  src: url('fzzzhunhjw.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
